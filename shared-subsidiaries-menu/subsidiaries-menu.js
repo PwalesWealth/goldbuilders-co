@@ -5,7 +5,7 @@
   const base=rawBase.endsWith('/')?rawBase:rawBase+'/';
   const href=path=>base+path;
   const groups=[
-    {id:'goldbuilders',label:'GoldBuilders Co.',items:[['GoldBuilders Co. Overview','index.html'],['BeMore Coaching Company','subsidiaries/bemore.html'],['BeMore Coaching Program','program-bemore-coaching.html']]},
+    {id:'goldbuilders',label:'GoldBuilders Co.',items:[['GoldBuilders Consult and Partners Overview','index.html'],['BeMore Coaching Company','subsidiaries/bemore.html'],['BeMore Coaching Program','program-bemore-coaching.html']]},
     {id:'luxestreams',label:'LuxeStreams',items:[['LuxeStreams Concierge','subsidiaries/luxestreams.html'],['LuxeStreams Concierge Club','subsidiaries/luxestreams-club.html']]},
     {id:'kohen',label:'Kohen',items:[['Kohen Overview','ecosystem/kohen.html'],['DiRent Africa','ecosystem/dirent-africa.html'],['SkeelUp Africa','ecosystem/skeelup-africa.html'],['ClinBox / OctaCare','ecosystem/clinbox.html'],['Vendare','ecosystem/vendare.html'],['Integrius','ecosystem/integrius.html'],['gEnie','ecosystem/genie.html'],['ManaJAR','ecosystem/manajar.html']]},
     {id:'yield',label:'YIELD Global Impact',items:[['YIELD Global Impact Overview','ecosystem/yield-global-impact.html'],['YIELD Global Fellowship','ecosystem/yield-global-fellowship.html'],['School of Impact','ecosystem/school-of-impact.html'],['Inspire Generation NEXT / NEXT Community','ecosystem/next-community.html'],['The Driven Life / 10X Community','ecosystem/the-driven-life.html'],['WeCare Foundation','ecosystem/wecare-foundation.html'],['Marketplace Ministry / NEXT Missions','ecosystem/next-missions.html'],['LeaderSHIFT Activation','ecosystem/yield-global-impact.html#leadershift']]}
